@@ -1,5 +1,5 @@
 {
-  "name": "circletest",
+  "name": "circledemo",
   "version": "1.0.0",
   "description": "This package calculates perimeter and area of circle",
   "main": "./lib/index.js",
