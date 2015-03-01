@@ -1,0 +1,22 @@
+{
+  "name": "circletest",
+  "version": "1.0.0",
+  "description": "This package calculates perimeter and area of circle",
+  "main": "./lib/index.js",
+  "keywords": [
+    "test-example",
+    "calculate area of circle",
+    "calculate perimeter of circle"
+  ],
+  "author": {
+    "name": "Demo for Study"
+  },
+  "readme": "## Calculate perimeter and area of circle (for learning purpose) \n\n## Install\n\n npm install circletest\n\n\n## API\n\n### -perimeter(r) \n where, \n r=radius of circle \n\n\n### -area(r) \n where, \n r=radius of circle",
+  "readmeFilename": "README.md",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
