@@ -14,8 +14,8 @@ $ npm install circledemo
   
 ## API
 
-### -perimeter(r) where  r = radius of circle
-### -area(r)  where  r = radius of circle
+### -perimeter(r), where  r = radius of circle
+### -area(r),  where  r = radius of circle
 
 ```js
 var circle = require('circledemo')
