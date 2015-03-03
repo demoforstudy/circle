@@ -12,10 +12,10 @@ $ npm install circledemo
   * Calculate perimeter of circle
   * Calculate area of circle
   
-## API\
+## API
 
-### -perimeter(r) \n where, \n r=radius of circle
-### -area(r) \n where, \n r=radius of circle
+### -perimeter(r) where  r = radius of circle
+### -area(r)  where  r = radius of circle
 
 ```js
 var circle = require('circledemo')
